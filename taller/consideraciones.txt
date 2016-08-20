@@ -1,0 +1,11 @@
+inicio de sesion :
+nombre: monica
+contraseña:1234
+
+
+datos de conexion.
+nombre de la base : demo
+clave de mi base : 1234
+
+nombre de la tabla:demo
+orden de mis columnas: nombre, foto, id_demo
